@@ -45,9 +45,7 @@ const Footer = () => {
         <FooterLink 
         text={'+91-8126399979'} 
         />
-        <FooterLink 
-        text={'+91-8791471527'} 
-        />
+        
       </StackColumn>
       
       <StackColumn>
