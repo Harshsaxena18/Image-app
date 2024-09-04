@@ -2,7 +2,7 @@ import React from "react";
 import  Container  from "react-bootstrap/Container";
 import "./Team.css";
 import harsh from "../assets/harsh.jpg";
-import arora from "../assets/arora.jpg";
+
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import Link from '@mui/material/Link';
 
@@ -34,22 +34,7 @@ export default function Team() {
                 <LinkedInIcon />
               </Link>
             </div>
-            // <div className="member" > 
-            //   <img src={arora} alt="Aaditya" />
-            //   <h3 className="memberInfo">
-            //     Aaditya Arora
-            //     <br />
-            //     UI , Frontend
-            //     <br />
-            //     Aroraaaditya612@gmail.com
-            //   </h3>
-            //   <Link href="https://in.linkedin.com/in/aaditya-arora2"variant="body2" 
-            //     sx={{ color: '#414141', "&:hover": { color: '#1c2859',}
-            //     }}
-            //   >
-            //     <LinkedInIcon />
-            //   </Link>
-            // </div>
+            
             
           </div>
         </div>
